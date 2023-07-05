@@ -94,3 +94,11 @@ table td img{
     background-color: red;
     color: white;
 }
+
+footer{ background-color:#00943137;
+    align-items: center;
+    text-align: center;
+    padding: 8px 0;
+    border: 1px solid #000;
+    margin-top: 360px;
+}
