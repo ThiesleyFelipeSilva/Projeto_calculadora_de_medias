@@ -40,7 +40,7 @@ form{
     color: #040404;
     font-size: 24px;
     border: none;
-    border-bottom: 2px solid black;
+    border: 2px solid black;
     padding: 8px;
     
     }
@@ -58,7 +58,9 @@ table{
     /*display: none;*/
 }
 table th{
-    border-bottom: 4px solid #000;
+    border-top: 1px solid #000000ec;
+    border-left:  1px solid #000000ec;
+    border-right:  1px solid #000000ec;;
     padding: 16px;
     font-size: 24px;
     font-weight: bold;
@@ -67,7 +69,7 @@ table td{
     text-align: center;
     font-size: 18px;
     padding: 16px ;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    border: 1px solid black;
 }
 table td img{
     height: 30px;
